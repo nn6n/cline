@@ -181,7 +181,7 @@
 		"@types/vscode": "^1.84.0",
 		"@typescript-eslint/eslint-plugin": "^7.14.1",
 		"@typescript-eslint/parser": "^7.11.0",
-		"@vscode/test-cli": "^0.0.9",
+		"@vscode/test-cli": "^0.0.11",
 		"@vscode/test-electron": "^2.4.0",
 		"chai": "^4.3.10",
 		"esbuild": "^0.21.5",
